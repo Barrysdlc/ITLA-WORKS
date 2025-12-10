@@ -1,0 +1,14 @@
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.csproj.AssemblyReference.cache
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.Properties.Resources.resources
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.Form1.resources
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.csproj.GenerateResource.cache
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.csproj.CoreCompileInputs.cache
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\bin\Debug\CarpinteriaAdolf.exe.config
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\bin\Debug\CarpinteriaAdolf.exe
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\bin\Debug\CarpinteriaAdolf.pdb
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.exe
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.pdb
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.exe.config
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.UI.FormMuebles.resources
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.UI.FormMateriales.resources
+C:\Users\cacar\source\repos\Itla Practices C#\CarpinteriaAdolf\CarpinteriaAdolf\obj\Debug\CarpinteriaAdolf.UI.FormPedidos.resources
